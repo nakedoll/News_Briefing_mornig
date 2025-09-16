@@ -1,0 +1,5 @@
+{
+  "name": "Podcast Player",
+  "description": "A stylish podcast player web application that allows users to upload and listen to audio files.",
+  "requestFramePermissions": []
+}
